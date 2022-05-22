@@ -15,5 +15,6 @@ cargo run --release
 - Open console in directory
 - Run `subrust`
 
-## Screenshots
-![image](https://user-images.githubusercontent.com/97707885/166152320-ca9d1af1-c8eb-439b-b752-51900b579c91.png)
+## Demo
+
+[![asciicast](https://asciinema.org/a/NO3iV0RoB80vDIeLPWZtiSSV9.svg)](https://asciinema.org/a/NO3iV0RoB80vDIeLPWZtiSSV9)
